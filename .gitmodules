@@ -1,3 +1,4 @@
 [submodule "flask-menu"]
 	path = flask-menu
 	url = https://github.com/inveniosoftware/flask-menu
+	clea
